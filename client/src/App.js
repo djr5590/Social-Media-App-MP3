@@ -8,6 +8,7 @@ const App = () => {
   )
 }
 
+export default App;
 
 
 
@@ -45,5 +46,3 @@ const App = () => {
 //     </div>
 //   );
 // }
-
-export default App;
