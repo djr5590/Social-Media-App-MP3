@@ -1,2 +1,6 @@
 node_modules
 .env
+
+
+add user.js to controllers (part 6 authentication)
+add auth.js to middleware (part 6 authentication)
